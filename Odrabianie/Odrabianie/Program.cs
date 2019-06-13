@@ -14,7 +14,10 @@ namespace Odrabianie
             int b = 2;
             int c = a + b;
 
+            int d = a * b;
+
             Console.WriteLine("{0} + {1} = {2}", a, b, c);
+            Console.WriteLine("{0} * {1} = {2}", a, b, d);
             Console.ReadKey();
         }
     }
