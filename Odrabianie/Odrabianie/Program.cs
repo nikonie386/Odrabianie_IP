@@ -20,6 +20,7 @@ namespace Odrabianie
             Console.WriteLine("{0} + {1} = {2}", a, b, c);
             Console.WriteLine("{0} * {1} = {2}", a, b, d);
             Console.WriteLine("{0} * {1} = {2}", a, c, f);
+            Console.WriteLine("Próba na gałąź rozwojową");
             Console.ReadKey();
         }
     }
